@@ -1,5 +1,5 @@
 - Olá, meu nome é Kaue Raphael Seimetz
 - Faço sites em HTML, CSS e JS
-- Pode me encontrar em kaueseimetz@gmail.com
+- Para entrar em contato: kaueseimetz@gmail.com
 - Estou estudando HTML, CSS, JavaScript, Pthon, Java e C#
 - Meu servidor do discord(https://discord.gg/ywh8npc2)
